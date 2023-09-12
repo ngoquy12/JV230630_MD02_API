@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "email": "nam@gmail.com",
+      "password": "$2a$10$fEcMloZkKbRN2xs3nbpzKukoCHPRA6c/N01zpo4UuLCoHHMn/414G",
+      "user_name": "Nguyễn Văn Nam",
+      "address": "Thanh Xuân, Hà Nội",
+      "dateOfBirth": "2023-07-31",
+      "role": 0,
+      "id": 3
+    },
+    {
+      "email": "van@gmail.com",
+      "password": "$2a$10$O02.KOtassKuuB3Ys25lUuNLP0/jAsrJJJi/M1U3AXBrGGiBJ0R5u",
+      "user_name": "Nguyễn Thị Vân",
+      "address": "Hà Nội",
+      "role": 1,
+      "dateOfBirth": "2023-09-10",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "product_name": "Đào lê 1",
+      "price": 12000,
+      "from": "Hà Giang",
+      "id": 2
+    },
+    {
+      "product_name": "Táo đểu",
+      "price": 12000,
+      "from": "Hà",
+      "id": 3
+    },
+    {
+      "product_name": "Bưởi 5 cân",
+      "price": 250000,
+      "from": "Bắc Giang",
+      "id": 4
+    }
+  ]
+}
